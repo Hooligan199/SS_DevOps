@@ -1,5 +1,6 @@
 #!/bin/bash 
-# SOME CHANGES (branch Deevlop)
+# SOME CHANGES
+# SOME NEW CHANGES IN BRANCH DEVELOP_2
 COUNTER=0 
 while [ $COUNTER -lt 10 ] 
 do 
